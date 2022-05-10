@@ -5,14 +5,14 @@ module.exports = newEmbed
 /**
  * @return {Discord.MessageEmbed}
  * @param {string} title The title for the embed
- * @param {string} color The color of the embed Default is set to blue(#0000ff)
+ * @param {string} color The color for the embed the default code is set to blue(#0000ff)
  * @param {string} description The description for the embed
  */
 
  // Future Update:
  //@param {string} footer The footer of the embed
 
-function newEmbed(title, color='#0000ff', description) {
+function newEmbed(title, color = '#0000ff', description) {
 
       let userEmbed = {
         embed: {
