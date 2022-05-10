@@ -1,0 +1,28 @@
+{
+  "name": "easy-embed",
+  "version": "1.0.0",
+  "description": "A package to easily setup a discord embed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "d.js",
+    "embed"
+  ],
+  "author": "Aidan White",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "random-hex": "^1.0.2"
+  },
+  "homepage": "https://github.com/Aidan-The-Dev/easy-embed/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/Aidan-The-Dev/easy-embed/issues"
+  },
+  "engines": {
+    "npm": ">=8.9.0",
+    "node": ">=18.1.0"
+  }
+}
