@@ -14,8 +14,7 @@
   "author": "Aidan White",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^13.6.0",
-    "random-hex": "^1.0.2"
+    "discord.js": "^13.6.0"
   },
   "homepage": "https://github.com/Aidan-The-Dev/easy-embed/blob/main/README.md",
   "bugs": {
