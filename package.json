@@ -1,5 +1,5 @@
 {
-  "name": "d.js-embed",
+  "name": "embedcord",
   "version": "1.0.0",
   "description": "A package to easily setup a discord embed",
   "main": "index.js",
@@ -16,9 +16,9 @@
   "dependencies": {
     "discord.js": "^13.6.0"
   },
-  "homepage": "https://github.com/Aidan-The-Dev/d.js-embed/blob/main/README.md",
+  "homepage": "https://github.com/Aidan-The-Dev/embedcord/blob/main/README.md",
   "bugs": {
-    "url": "https://github.com/Aidan-The-Dev/d.js-embed/issues"
+    "url": "https://github.com/Aidan-The-Dev/embedcord/issues"
   },
   "engines": {
     "npm": ">=8.9.0",
